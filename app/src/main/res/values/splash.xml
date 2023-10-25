@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Opening.Screen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/white</item>
+        
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splashlogo</item>
+
+        <item name="windowSplashScreenAnimationDuration">3000</item>
+
+        <item name="splashScreenIconSize">340dp</item>
+
+        <item name="postSplashScreenTheme">@style/Theme.HT_IndividualProject2</item>
+    </style>
+</resources>
